@@ -1,0 +1,41 @@
+**************APPROACH*******************
+
+First, I read and understood the stated requirements in the test document.
+After that, I manually tested the expected functionality.
+
+This is a Maven project.
+In the POM.xml file, all the required dependencies and plugins were added.
+
+To automate the functionality, I used Page Object Model Design pattern.
+Web elements were identified using xpath, and separate page class for each webpage was created.
+Page Factory was used to initialize page class elements.
+
+Utility class was created to write reusable methods.
+Log4j2 was used as a logging framework.
+
+Cucumber framework:
+Expected behaviour of the AUT was written into feature files using Gherkins.
+StepDefs file created expressions to link the feature file gherkin steps.
+Hooks class has the code which setup and teardown the environment before and after each scenario.
+Test runner file is given the path of and feature file using Cucumber options.
+
+Extent reports library has been used to create visually attractive reports of the test.
+
+**************IMPROVEMENT AREAS*******************
+
+Custom Test listeners can be created and implements to get detailed info
+on scenarios like test fail, skip, success.
+
+*********************CI/CD Integration****************
+jenkins pipeline defined using JenkinsFile
+1) Using Github as source code repository
+2) Install necessaary plugins: Git Plugin; Email Plugin; Configuring with Maven;
+ Deploy to Container Plugin; Static Code Analysis Plugin
+3) Create a job in Jenkins
+4) Provide github repository path in the jobs created
+5) Jenkins will get notified of a new commit using WebHooks provided by Github.
+6) Jenkins will create build with the help of maven plugin
+7) The build will be tested on the server
+8) Post successful build, Jenkins can deploy the war/ear file to a container.
+9) the latest build version will be delivered or deployed
+

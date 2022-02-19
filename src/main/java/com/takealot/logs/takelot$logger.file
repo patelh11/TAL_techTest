@@ -1,0 +1,114 @@
+2022-02-19 11:02:659 INFO  ManageDriver :28 - Launching Chrome Browser
+2022-02-19 11:02:511 INFO  HomePage :26 - Clicking on OK cookies
+2022-02-19 11:02:314 INFO  RegisterPage :68 - Clicking on register link from home page
+2022-02-19 11:02:469 INFO  HomePage :33 - Clicking on register link
+2022-02-19 11:02:471 INFO  RegisterPage :70 - Entering firstname : BYwISU
+2022-02-19 11:02:727 INFO  RegisterPage :72 - Entering lastname : INVXav
+2022-02-19 11:02:869 INFO  RegisterPage :74 - Entering email : 0jlunsm@gmail.com
+2022-02-19 11:02:20 INFO  RegisterPage :76 - Retyping email: 0jlunsm@gmail.com
+2022-02-19 11:02:235 INFO  RegisterPage :78 - Entering password : Qwerty@123
+2022-02-19 11:02:349 INFO  RegisterPage :80 - Retyping password: Qwerty@123
+2022-02-19 11:02:438 INFO  RegisterPage :82 - Entering mobile number : 07771990889
+2022-02-19 11:02:553 INFO  RegisterPage :87 - Clicking on register button on register page
+2022-02-19 11:02:765 INFO  RegisterPage :92 - Clicking on continue to shopping 'here' link
+2022-02-19 11:02:925 INFO  SearchItemPage :48 - Entering item to search : Watches in search bar
+2022-02-19 11:02:557 INFO  SearchItemPage :50 - Click on search icon
+2022-02-19 11:02:668 INFO  SearchItemPage :61 - Ticking on matching brand name as searched
+2022-02-19 11:02:629 INFO  SearchItemPage :98 - Switching to child window
+2022-02-19 11:02:89 INFO  SearchItemPage :101 - Clicking on add to cart button
+2022-02-19 11:02:179 INFO  SearchItemPage :106 - Switching to parent window
+2022-02-19 11:02:219 INFO  SearchItemPage :112 - Refreshing the search page
+2022-02-19 11:02:381 INFO  SearchItemPage :48 - Entering item to search : Watches in search bar
+2022-02-19 11:02:867 INFO  SearchItemPage :50 - Click on search icon
+2022-02-19 11:02:922 INFO  SearchItemPage :61 - Ticking on matching brand name as searched
+2022-02-19 11:02:879 INFO  SearchItemPage :98 - Switching to child window
+2022-02-19 11:02:439 INFO  SearchItemPage :101 - Clicking on add to cart button
+2022-02-19 11:02:646 INFO  SearchItemPage :106 - Switching to parent window
+2022-02-19 11:02:676 INFO  SearchItemPage :112 - Refreshing the search page
+2022-02-19 11:02:758 INFO  SearchItemPage :117 - Clicking on basket icon on user account page
+2022-02-19 11:02:641 INFO  CartPage :24 - Checking if basket contains intended products
+2022-02-19 11:02:628 INFO  CartPage :24 - Checking if basket contains intended products
+2022-02-19 11:02:119 INFO  ManageDriver :28 - Launching Chrome Browser
+2022-02-19 11:02:65 INFO  HomePage :26 - Clicking on OK cookies
+2022-02-19 11:02:154 INFO  RegisterPage :68 - Clicking on register link from home page
+2022-02-19 11:02:505 INFO  HomePage :33 - Clicking on register link
+2022-02-19 11:02:506 INFO  RegisterPage :70 - Entering firstname : KqjYLv
+2022-02-19 11:02:643 INFO  RegisterPage :72 - Entering lastname : KowJIO
+2022-02-19 11:02:740 INFO  RegisterPage :74 - Entering email : vtluob5@gmail.com
+2022-02-19 11:02:909 INFO  RegisterPage :76 - Retyping email: vtluob5@gmail.com
+2022-02-19 11:02:159 INFO  RegisterPage :78 - Entering password : Qwerty@123
+2022-02-19 11:02:287 INFO  RegisterPage :80 - Retyping password: Qwerty@123
+2022-02-19 11:02:389 INFO  RegisterPage :82 - Entering mobile number : 07771990889
+2022-02-19 11:02:502 INFO  RegisterPage :87 - Clicking on register button on register page
+2022-02-19 11:02:137 INFO  RegisterPage :97 - Getting welcom text Welcome to the TAKEALOT.com family!
+2022-02-19 11:02:187 INFO  RegisterPage :92 - Clicking on continue to shopping 'here' link
+2022-02-19 11:02:732 INFO  ManageDriver :28 - Launching Chrome Browser
+2022-02-19 11:02:377 INFO  HomePage :26 - Clicking on OK cookies
+2022-02-19 11:02:419 INFO  RegisterPage :68 - Clicking on register link from home page
+2022-02-19 11:02:912 INFO  HomePage :33 - Clicking on register link
+2022-02-19 11:02:912 INFO  RegisterPage :70 - Entering firstname : oozaiP
+2022-02-19 11:02:48 INFO  RegisterPage :72 - Entering lastname : uhXMEw
+2022-02-19 11:02:180 INFO  RegisterPage :74 - Entering email : tg2gik3@gmail.com
+2022-02-19 11:02:573 INFO  RegisterPage :76 - Retyping email: tg2gik3@gmail.com
+2022-02-19 11:02:965 INFO  RegisterPage :78 - Entering password : Qwerty@123
+2022-02-19 11:02:133 INFO  RegisterPage :80 - Retyping password: Qwerty@123
+2022-02-19 11:02:372 INFO  RegisterPage :82 - Entering mobile number : 07771990889
+2022-02-19 11:02:520 INFO  RegisterPage :87 - Clicking on register button on register page
+2022-02-19 11:02:992 INFO  RegisterPage :97 - Getting welcom text Welcome to the TAKEALOT.com family!
+2022-02-19 11:02:14 INFO  RegisterPage :92 - Clicking on continue to shopping 'here' link
+2022-02-19 16:02:201 INFO  ManageDriver :28 - Launching Chrome Browser
+2022-02-19 16:02:58 INFO  HomePage :26 - Clicking on OK cookies
+2022-02-19 16:02:371 INFO  RegisterPage :68 - Clicking on register link from home page
+2022-02-19 16:02:851 INFO  HomePage :33 - Clicking on register link
+2022-02-19 16:02:852 INFO  RegisterPage :70 - Entering firstname : BnJToF
+2022-02-19 16:02:948 INFO  RegisterPage :72 - Entering lastname : FgnoFm
+2022-02-19 16:02:26 INFO  RegisterPage :74 - Entering email : mprcfu6@gmail.com
+2022-02-19 16:02:162 INFO  RegisterPage :76 - Retyping email: mprcfu6@gmail.com
+2022-02-19 16:02:401 INFO  RegisterPage :78 - Entering password : Qwerty@123
+2022-02-19 16:02:567 INFO  RegisterPage :80 - Retyping password: Qwerty@123
+2022-02-19 16:02:682 INFO  RegisterPage :82 - Entering mobile number : 07771990889
+2022-02-19 16:02:783 INFO  RegisterPage :87 - Clicking on register button on register page
+2022-02-19 16:02:418 INFO  RegisterPage :97 - Getting welcom text Welcome to the TAKEALOT.com family!
+2022-02-19 16:02:439 INFO  RegisterPage :92 - Clicking on continue to shopping 'here' link
+2022-02-19 17:02:332 INFO  ManageDriver :28 - Launching Chrome Browser
+2022-02-19 17:02:660 INFO  HomePage :26 - Clicking on OK cookies
+2022-02-19 17:02:740 INFO  RegisterPage :68 - Clicking on register link from home page
+2022-02-19 17:02:616 INFO  HomePage :33 - Clicking on register link
+2022-02-19 17:02:616 INFO  RegisterPage :70 - Entering firstname : KvlCoM
+2022-02-19 17:02:723 INFO  RegisterPage :72 - Entering lastname : mRfWGR
+2022-02-19 17:02:828 INFO  RegisterPage :74 - Entering email : s60wxla@gmail.com
+2022-02-19 17:02:07 INFO  RegisterPage :76 - Retyping email: s60wxla@gmail.com
+2022-02-19 17:02:214 INFO  RegisterPage :78 - Entering password : Qwerty@123
+2022-02-19 17:02:317 INFO  RegisterPage :80 - Retyping password: Qwerty@123
+2022-02-19 17:02:406 INFO  RegisterPage :82 - Entering mobile number : 07771990889
+2022-02-19 17:02:502 INFO  RegisterPage :87 - Clicking on register button on register page
+2022-02-19 17:02:627 INFO  RegisterPage :97 - Getting welcom text Welcome to the TAKEALOT.com family!
+2022-02-19 17:02:659 INFO  RegisterPage :92 - Clicking on continue to shopping 'here' link
+2022-02-20 01:02:717 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-02-20 01:02:262 INFO  HomePage :26 - Clicking on OK cookies
+2022-02-20 01:02:471 INFO  RegisterPage :68 - Clicking on register link from home page
+2022-02-20 01:02:83 INFO  HomePage :33 - Clicking on register link
+2022-02-20 01:02:84 INFO  RegisterPage :70 - Entering firstname : tfUsRh
+2022-02-20 01:02:186 INFO  RegisterPage :72 - Entering lastname : coRTzm
+2022-02-20 01:02:273 INFO  RegisterPage :74 - Entering email : b9ah8z1@gmail.com
+2022-02-20 01:02:425 INFO  RegisterPage :76 - Retyping email: b9ah8z1@gmail.com
+2022-02-20 01:02:695 INFO  RegisterPage :78 - Entering password : Qwerty@123
+2022-02-20 01:02:810 INFO  RegisterPage :80 - Retyping password: Qwerty@123
+2022-02-20 01:02:903 INFO  RegisterPage :82 - Entering mobile number : 07771990889
+2022-02-20 01:02:15 INFO  RegisterPage :87 - Clicking on register button on register page
+2022-02-20 01:02:285 INFO  RegisterPage :97 - Getting welcom text Welcome to the TAKEALOT.com family!
+2022-02-20 01:02:317 INFO  RegisterPage :92 - Clicking on continue to shopping 'here' link
+2022-02-20 01:02:315 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-02-20 01:02:447 INFO  HomePage :26 - Clicking on OK cookies
+2022-02-20 01:02:334 INFO  RegisterPage :68 - Clicking on register link from home page
+2022-02-20 01:02:780 INFO  HomePage :33 - Clicking on register link
+2022-02-20 01:02:781 INFO  RegisterPage :70 - Entering firstname : mEQBuW
+2022-02-20 01:02:866 INFO  RegisterPage :72 - Entering lastname : TnRIfj
+2022-02-20 01:02:949 INFO  RegisterPage :74 - Entering email : bf41s2s@gmail.com
+2022-02-20 01:02:100 INFO  RegisterPage :76 - Retyping email: bf41s2s@gmail.com
+2022-02-20 01:02:309 INFO  RegisterPage :78 - Entering password : Qwerty@123
+2022-02-20 01:02:413 INFO  RegisterPage :80 - Retyping password: Qwerty@123
+2022-02-20 01:02:512 INFO  RegisterPage :82 - Entering mobile number : 07771990889
+2022-02-20 01:02:619 INFO  RegisterPage :87 - Clicking on register button on register page
+2022-02-20 01:02:815 INFO  RegisterPage :97 - Getting welcom text Welcome to the TAKEALOT.com family!
+2022-02-20 01:02:845 INFO  RegisterPage :92 - Clicking on continue to shopping 'here' link
